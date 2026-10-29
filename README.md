@@ -1,6 +1,6 @@
 # IA nas Engenharias
 
-Minicurso de 2 horas de **Inteligência Artificial e Aprendizado de Máquina** para estudantes de **Engenharia Civil, de Produção, Elétrica, Mecânica e Química**. Não é preciso conhecer Python nem Machine Learning: tudo é explicado do zero, com exemplos da engenharia.
+Minicurso de **Inteligência Artificial e Aprendizado de Máquina** para estudantes de **Engenharia Civil, de Produção, Elétrica, Mecânica e Química**. Não é preciso conhecer Python nem Machine Learning: tudo é explicado do zero, com exemplos da engenharia.
 
 Ministrante: Patrícia Pedroso Estevam
 
