@@ -12,7 +12,7 @@ Ministrante: Patrícia Pedroso Estevam Ribeiro
 |---|---|---|
 | **Notebook (Colab)** | Código pronto para executar no navegador, com comentários linha a linha | [Abrir no Colab](https://colab.research.google.com/github/patriciapedrosoestevam/Mini_curso_engenharia/blob/main/Colab_IA_nas_Engenharias.ipynb) |
 | **Apostila (PDF)** | Texto de apoio com a teoria, as figuras e o código de cada exercício | [Abrir a apostila](Apostila_IA_nas_Engenharias.pdf) |
-| **Slides (PPTX)** | Apresentação usada em aula | [Baixar os slides](Minicurso_IA_nas_Engenharias_Patricia.pptx) |
+| **Slides (PDF)** | Apresentação usada em aula | [Baixar os slides](Minicurso_IA_nas_Engenharias_Patricia.pdf) |
 
 > Os três materiais seguem a mesma ordem e a mesma numeração (Exemplo 1, Exemplo 2, Bloco 1, Exercício 1.1 e assim por diante). Cada exemplo do notebook indica em que parte da apostila e dos slides ele aparece.
 
