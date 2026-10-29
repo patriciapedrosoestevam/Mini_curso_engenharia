@@ -34,7 +34,7 @@ Os dados do curso são **simulados** dentro do próprio notebook, para fins did�
 - Diferença entre **Inteligência Artificial**, **Machine Learning** e **Deep Learning**.
 - O que é **aprendizado supervisionado** e **não supervisionado**.
 - **Regressão** (prever um número) e **classificação** (prever uma categoria).
-- Como **avaliar** um modelo: MAE, RMSE, R², matriz de confusão, acurácia, precisão, sensibilidade, curva ROC.
+- Como **avaliar** um modelo: acurácia, precisão, sensibilidade, curva ROC, MAE, RMSE, R², matriz de confusão.
 - Por que separar **treino e teste** e o que é **overfitting**.
 - **Visualização** dos dados antes de modelar e **PCA** para reduzir dimensões.
 - Como ler cada gráfico e interpretar os resultados.
